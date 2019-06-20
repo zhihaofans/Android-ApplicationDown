@@ -1,0 +1,23 @@
+{
+    "app_name": {
+        "en-us": "Tachiyomi"
+    },
+    "developer": "inorichi",
+    "homepage": "https://github.com/inorichi/tachiyomi",
+    "icon": "https://github.com/inorichi/tachiyomi/raw/master/app/src/main/ic_launcher-web.png",
+    "license": "https://github.com/inorichi/tachiyomi/blob/master/LICENSE",
+    "description": {
+        "en-us": "Tachiyomi is a free and open source manga reader for Android."
+    },
+    "version_name": "0.8.4",
+    "version_code": 41,
+    "min_sdk_version": 16,
+    "apk_size": "10.4 MB",
+    "downloads": [
+        {
+            "name": "Github releases",
+            "type": "github_releases",
+            "url": "https://github.com/inorichi/tachiyomi"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "app_name": {
+        "en-us": "Cimoc"
+    },
+    "developer": "feilongfl",
+    "homepage": "https://github.com/feilongfl/Cimoc",
+    "icon": "https://github.com/feilongfl/Cimoc/raw/release-tci/screenshot/icon.png",
+    "license": "https://github.com/feilongfl/Cimoc/blob/release-tci/LICENSE.md",
+    "description": {
+        "en-us": "Online manga reader based on Android",
+        "zh-cn": "Android 平台在线漫画阅读器"
+    },
+    "version_name": "v1.4.33",
+    "version_code": 412,
+    "min_sdk_version": 15,
+    "apk_size": "3.35 MB",
+    "downloads": [
+        {
+            "name": "Github releases",
+            "type": "github_releases",
+            "url": "https://github.com/feilongfl/Cimoc"
+        }
+    ]
+}

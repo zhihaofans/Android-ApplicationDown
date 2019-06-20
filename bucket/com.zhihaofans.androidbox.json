@@ -1,0 +1,30 @@
+{
+    "app_name": {
+        "en-us": "Android.Box",
+        "zh-cn": "安卓盒子"
+    },
+    "developer": "zhihaofans",
+    "homepage": "https://github.com/zhihaofans/Android.Box",
+    "icon": "https://github.com/zhihaofans/Android.Box/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "license": "",
+    "description": {
+        "en-us": "Android.Box",
+        "zh-cn": "安卓盒子"
+    },
+    "version_name": "0.0.101.1",
+    "version_code": 138,
+    "min_sdk_version": 26,
+    "apk_size": "9.51 MB",
+    "downloads": [
+        {
+            "name": "fir.im",
+            "type": "web",
+            "url": "https://fir.im/fkw1"
+        },
+        {
+            "name": "Github releases",
+            "type": "github_releases",
+            "url": "https://github.com/zhihaofans/Android.Box"
+        }
+    ]
+}
