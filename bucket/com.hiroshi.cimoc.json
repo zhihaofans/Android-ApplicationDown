@@ -1,14 +1,14 @@
 {
     "bucket_rule_version": 1,
     "app_name": {
-        "en-us": "Cimoc"
+        "en_us": "Cimoc"
     },
     "developer": "feilongfl",
     "homepage": "https://github.com/feilongfl/Cimoc",
     "icon": "https://github.com/feilongfl/Cimoc/raw/release-tci/screenshot/icon.png",
     "description": {
-        "en-us": "Online manga reader based on Android",
-        "zh-cn": "Android 平台在线漫画阅读器"
+        "en_us": "Online manga reader based on Android",
+        "zh_cn": "Android 平台在线漫画阅读器"
     },
     "version_name": "v1.4.33",
     "version_code": 412,

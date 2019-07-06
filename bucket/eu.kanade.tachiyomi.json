@@ -1,13 +1,13 @@
 {
     "bucket_rule_version": 1,
     "app_name": {
-        "en-us": "Tachiyomi"
+        "en_us": "Tachiyomi"
     },
     "developer": "inorichi",
     "homepage": "https://github.com/inorichi/tachiyomi",
     "icon": "https://github.com/inorichi/tachiyomi/raw/master/app/src/main/ic_launcher-web.png",
     "description": {
-        "en-us": "Tachiyomi is a free and open source manga reader for Android."
+        "en_us": "Tachiyomi is a free and open source manga reader for Android."
     },
     "version_name": "0.8.4",
     "version_code": 41,

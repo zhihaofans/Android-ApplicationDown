@@ -1,14 +1,14 @@
 {
     "bucket_rule_version": 1,
     "app_name": {
-        "en-us": "QuickShortcutMaker"
+        "en_us": "QuickShortcutMaker"
     },
     "developer": "sika524",
     "homepage": "https://play.google.com/store/apps/details?id=com.sika524.android.quickshortcut",
     "icon": "",
     "description": {
-        "en-us": "You can also use the QuickShortcutMaker for searching the app which you want to launch.",
-        "zh-cn": "使用这个程序，你可以从活动已安装的列表中创建一个快捷方式。"
+        "en_us": "You can also use the QuickShortcutMaker for searching the app which you want to launch.",
+        "zh_cn": "使用这个程序，你可以从活动已安装的列表中创建一个快捷方式。"
     },
     "version_name": "2.4.0",
     "version_code": 41,

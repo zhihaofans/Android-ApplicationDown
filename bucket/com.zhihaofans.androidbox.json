@@ -1,15 +1,15 @@
 {
     "bucket_rule_version": 1,
     "app_name": {
-        "en-us": "Android.Box",
-        "zh-cn": "安卓盒子"
+        "en_us": "Android.Box",
+        "zh_cn": "安卓盒子"
     },
     "developer": "zhihaofans",
     "homepage": "https://github.com/zhihaofans/Android.Box",
     "icon": "https://github.com/zhihaofans/Android.Box/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
     "description": {
-        "en-us": "Android.Box",
-        "zh-cn": "安卓盒子"
+        "en_us": "Android.Box",
+        "zh_cn": "安卓盒子"
     },
     "version_name": "0.0.101.1",
     "version_code": 138,
